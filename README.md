@@ -80,7 +80,7 @@ socket.send(JSON.stringify({ command: "listRooms" }));
 |-------------|----------------------------------|----------------------------------|
 | `create`    | Create a new game room.          | None                             |
 | `join`      | Join an existing game room.      | `{ roomId: "specified_room_id" }`|
-| `listRooms` | Fetch list of active game rooms. | None                             |
+| `listRooms` | Fetch list of active game rooms. | None (Im workin on it)                             |
 
 ## Contributing
 
