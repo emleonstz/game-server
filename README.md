@@ -13,7 +13,6 @@ A simple multiplayer game server with Ratchet WebSocket. It allows players to jo
 - [API](#api)
 - [Contributing](#contributing)
 - [License](#license)
-
 ## Requirements
 
 - PHP >= 7.4
@@ -53,7 +52,7 @@ const socket = new WebSocket("ws://localhost:8090");
 
 ### Generate match code
 
-Open example.php in a browser window click generate match code button check macth code from console and coppy it.
+Open example.php in a browser window click generate match code button check macth code from console and copy it.
 
 ```javascript
 socket.send(JSON.stringify({ command: "create" }));
