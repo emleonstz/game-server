@@ -49,7 +49,7 @@ The server will start and listen on the specified port (e.g., `8090`).
 To connect to the server, use WebSocket in JavaScript:
 
 ```javascript
-const socket = new WebSocket("ws://your_server_address:8090");
+const socket = new WebSocket("ws://localhost:8090");
 ```
 
 ### Generate match code
