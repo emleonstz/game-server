@@ -1,4 +1,3 @@
-Certainly! Here's a basic README.md for your WebSocket game server using Ratchet:
 
 ---
 
