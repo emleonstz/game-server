@@ -8,7 +8,7 @@
 </head>
 
 <body>
-    <button id="createRoom">Create Mactch Codo</button>
+    <button id="createRoom">Create Mactch Code</button>
     <input type="text" id="roomIdInput" placeholder="Enter Room ID to join">
     <button id="joinRoom">Join Room</button>
 </body>
