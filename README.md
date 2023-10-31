@@ -52,7 +52,7 @@ const socket = new WebSocket("ws://localhost:8090");
 
 ### Generate match code
 
-Open example.php in a browser window click generate match code button check macth code from console and copy it.
+Open example.php in a browser window click generate match code button check macth code from console and copy it or send a message as an object.
 
 ```javascript
 socket.send(JSON.stringify({ command: "create" }));
