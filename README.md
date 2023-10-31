@@ -17,7 +17,7 @@ A simple multiplayer game server with Ratchet WebSocket. It allows players to jo
 
 - PHP >= 7.4
 - Composer
-- Ratchet PHP library
+- Ratchet Websocket PHP library
 
 ## Installation
 
