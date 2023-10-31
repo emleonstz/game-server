@@ -80,12 +80,5 @@ socket.send(JSON.stringify({ command: "listRooms" }));
 | `join`      | Join an existing game room.      | `{ roomId: "specified_room_id" }`|
 | `listRooms` | Fetch list of active game rooms. | None (Don use it for now)                             |
 
-## Contributing
-
-Contributions, issues, and feature requests are welcome! Feel free to check [issues page](#).
-
-## License
-
- MIT License.
 
 ---
