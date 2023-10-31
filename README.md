@@ -25,7 +25,7 @@ A simple multiplayer game server with Ratchet WebSocket. It allows players to jo
 
 ```bash
 git clone https://github.com/emleonstz/game-server.git
-cd websocket-game-server
+cd game-server
 ```
 
 2. Install dependencies with Composer:
